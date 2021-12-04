@@ -15,6 +15,10 @@ module.exports = {
         source: "/register",
         destination: "/auth/Register",
       },
+      {
+        source: "/dashboard",
+        destination: "/home/Dashboard",
+      },
     ];
   },
 };
